@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-07-26T16:18:11 IST" name="Suite" finished-at="2024-07-26T16:18:18 IST" duration-ms="7601">
+    <groups>
+    </groups>
+    <test started-at="2024-07-26T16:18:11 IST" name="Test" finished-at="2024-07-26T16:18:18 IST" duration-ms="7601">
+      <class name="test.SigTes">
+        <test-method is-config="true" signature="launchingBrowser()[pri:0, instance:test.SigTes@b9b00e0]" started-at="2024-07-26T16:18:16 IST" name="launchingBrowser" finished-at="2024-07-26T16:18:18 IST" duration-ms="1859" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchingBrowser -->
+        <test-method signature="SignupT()[pri:0, instance:test.SigTes@b9b00e0]" started-at="2024-07-26T16:18:18 IST" name="SignupT" finished-at="2024-07-26T16:18:18 IST" duration-ms="459" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SignupT -->
+      </class> <!-- test.SigTes -->
+      <class name="test.LogTes">
+        <test-method is-config="true" signature="launchingBrowser()[pri:0, instance:test.LogTes@d5b810e]" started-at="2024-07-26T16:18:11 IST" name="launchingBrowser" finished-at="2024-07-26T16:18:13 IST" duration-ms="2629" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchingBrowser -->
+        <test-method signature="logT()[pri:0, instance:test.LogTes@d5b810e]" started-at="2024-07-26T16:18:13 IST" name="logT" finished-at="2024-07-26T16:18:16 IST" duration-ms="2626" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logT -->
+      </class> <!-- test.LogTes -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
