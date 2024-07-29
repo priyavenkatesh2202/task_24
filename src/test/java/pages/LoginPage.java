@@ -22,7 +22,7 @@ public class LoginPage extends ProjectSpecificationMethod {
 	WebElement SignUp;
 	
 	
-	@FindBy(id="loginusername")
+	@FindBy(id="loginusername")  
 	WebElement user;
 	
 	@FindBy(id="loginpassword")
